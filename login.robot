@@ -1,7 +1,7 @@
 *** Settings ***
 Library    SeleniumLibrary
-Resource   pages/variaveis.robot
-Resource   pages/keywords.robot
+Resource   variaveis.robot
+Resource   keywords.robot
 
 
 
